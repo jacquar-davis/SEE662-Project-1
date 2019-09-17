@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Launch\ the\ application.\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=JAVASwingFormExample()
+comment2.text=\r\n\ Create\ the\ application.\r\n
+comment3.params=
+comment3.target=void\ initialize()
+comment3.text=\r\n\ Initialize\ the\ contents\ of\ the\ frame.\r\n
+comment4.params=e
+comment4.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment4.text=@Override\ \ \ \r\n\ \ \ \ public\ void\ actionPerformed(ActionEvent\ e)\ {\r\n\ \ \ \ \ \ \ \ if(e.getSource()\ \=\=\ c1)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ l1.setText(c1.getSelectedItem()\ +\ "\ selected");\r\n\ \ \ \ \ \ \ \ }\r\n}
+numComments=5

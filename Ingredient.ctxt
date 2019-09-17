@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=iName\ iAmount\ iUnit
+comment0.target=Ingredient(java.lang.String,\ int,\ java.lang.String)
+comment1.params=nName
+comment1.target=void\ setName(java.lang.String)
+comment2.params=nAmount
+comment2.target=void\ setAmount(int)
+comment3.params=nUnit
+comment3.target=void\ setUnit(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

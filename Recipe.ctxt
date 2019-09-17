@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rName\ rDescription\ rList
+comment0.target=Recipe(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.params=
+comment1.target=Recipe()
+comment2.params=nName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=nDes
+comment3.target=void\ setDes(java.lang.String)
+comment4.params=iName\ iAmount\ iUnit
+comment4.target=void\ addList(java.lang.String,\ int,\ java.lang.String)
+comment5.params=temp
+comment5.target=void\ addList(Ingredient)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
